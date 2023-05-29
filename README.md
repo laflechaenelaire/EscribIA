@@ -2,6 +2,7 @@
 
 EscribIA es una simple aplicación de transcripción de audio impulsada por el modelo de OpenAI, Whisper. Utiliza la interfaz gráfica de usuario (GUI) de Tkinter y es compatible con los formatos de audio más comunes, como .mp3, .wav, .mp4 y .ogg.
 
+![Ejemplo de imagen](GUI.png)
 ## Características
 - Transcripción de audio usando OpenAI Whisper.
 - Interfaz gráfica de usuario fácil de usar, impulsada por Tkinter.
