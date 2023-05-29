@@ -12,7 +12,7 @@ EscribIA es una simple aplicación de transcripción de audio impulsada por el m
 Para utilizar esta aplicación, primero debes clonar el repositorio:
 
 ```
-git clone https://github.com/<usuario>/EscribIA.git
+git clone https://github.com/laflechaenelaire/EscribIA
 ```
 
 Luego, instale las dependencias necesarias utilizando pip:
