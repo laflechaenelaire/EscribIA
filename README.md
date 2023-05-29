@@ -41,7 +41,7 @@ Una vez que la aplicación esté en ejecución, puedes cargar un archivo de audi
 Esta aplicación está bajo la licencia MIT. Consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ## Contribuir
-Las contribuciones son bienvenidas! Siéntete libre de abrir un problema o enviar una solicitud de extracción.
+Las contribuciones son bienvenidas! 
 
 ## Notas 
 
