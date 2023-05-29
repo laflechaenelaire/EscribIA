@@ -45,7 +45,7 @@ Las contribuciones son bienvenidas!
 
 ## Notas 
 
-Por favor, ten en cuenta que este código utiliza el modelo Whisper de OpenAI que puede tener costos asociados. Asegúrate de entender los costos antes de usar esta aplicación.
+Por favor, ten en cuenta que este código utiliza el modelo Whisper de OpenAI que tiene costos asociados. Asegúrate de entender los costos antes de usar esta aplicación.
 
 ## Créditos
 Esta aplicación fue creada por Santiago Manuel González en 2023.
