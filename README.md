@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Para ejecutar la aplicación, primero necesita obtener una clave de API de OpenAI. Luego, cree un archivo .env e incerte la clave:
 
 ```
-export OPENAI_API_KEY=<your-api-key>
+OPENAI_API_KEY=<your-api-key>
 ```
 
 Luego, puede iniciar la aplicación ejecutando el archivo `main.py`:
